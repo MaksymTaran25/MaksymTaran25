@@ -1,19 +1,26 @@
 <h1 align="center">Hi, I'm Maksym Taran</h1>
-<h3 align="center">Data Science Student | ML Researcher | FinTech Minor</h3>
+<h3 align="center">AI/ML Engineer Intern @ Interform | Data Science @ University of Utah | Graduating April 2027</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/taranmaksym/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+<p align="center"><a href="https://maksymtaran25.github.io">maksymtaran25.github.io</a></p>
 
 ---
 
 ### About Me
 
+- Looking for **full-time ML, SWE, or AI roles** after I graduate in April 2027
+- AI/ML Engineer Intern @ Interform (Aug 2026 - Present), previously Machine Learning Engineer Intern (May 2026 - Aug 2026)
+- Product Engineer @ UtahAILab, building a self-hosted AI workspace that runs open-weight LLMs locally (Jul 2026 - Present)
+- Co-Founder @ Stealth AI Startup, Sandbox accelerator Fall 2026 cohort (Aug 2026 - Present)
+- Research Assistant @ Utah Waves & Architected Materials Lab, University of Utah (Aug 2026 - Present)
+- Research Assistant (Machine Learning) @ Utah Lab of Artificial Intelligence Powered Systems, University of Utah (May 2025 - Present)
+- Research Assistant @ Laboratory for Experimental Economics and Finance, University of Utah (Apr 2026 - Present)
 - BS in Data Science + Minor in FinTech @ University of Utah (Aug 2024 - Apr 2027)
-- Research Assistant (Machine Learning) at Utah Lab of AI Powered Systems, University of Utah (May 2025 - Present)
-- Member, Aerospace Scholars Program @ University of Utah (Jan 2025 - Present)
+- Member, Aerospace Scholars Program @ University of Utah (Dec 2025 - Present)
 - Applied Mathematics + Data Science @ Inholland University, Amsterdam (Sep 2023 - Jun 2024)
 - Based in Salt Lake City, UT
 - Languages: English (Professional) · Russian (Native) · Ukrainian (Native)
@@ -36,10 +43,9 @@
 
 ### Languages and Tools
 
-| | | | | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40"/> |
+|   |   |   |   |   |   |   |   |   |   |   |
+|-|-|-|-|-|-|-|-|-|-|-|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> |
 
-**Skills:** SQL · Computer Vision · Machine Learning · Deep Learning · Data Modeling · Time Series Analysis · Algorithms · Statistical Analysis · Data Wrangling · Exploratory Data Analysis · Data Visualization · OOP · Responsible AI · FinTech · Financial Analysis · DBMS
-
-
+**Skills:** Machine Learning · Deep Learning · Computer Vision · LLMs · NLP · RAG · Generative AI · AI Agents · Model Deployment · Model Evaluation · 3D Reconstruction · Time Series Analysis · Hugging Face · ONNX Runtime · ASP.NET Core · Next.js · Flask · SQLAlchemy · SQL · Full-Stack Development · Software Design · Algorithms · OOP · Data Wrangling · Exploratory Data Analysis · Data Visualization · Statistical Analysis · Responsible AI · FinTech · Financial Analysis
