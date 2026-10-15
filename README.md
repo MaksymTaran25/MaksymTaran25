@@ -15,7 +15,7 @@
 
 I work end to end on a print-automation product at Interform, deploying computer vision and 3D reconstruction models into a .NET pipeline, and I build the ML side of a self-hosted LLM workspace at UtahAILab. Alongside that I do research in three University of Utah labs.
 
-Based in Salt Lake City, UT · English (professional), Ukrainian and Russian (native), French (elementary)
+Based in Salt Lake City, UT
 
 ## Experience
 
@@ -47,7 +47,7 @@ Based in Salt Lake City, UT · English (professional), Ukrainian and Russian (na
 ## Tech Stack
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=python,cs,java,ts,js,swift" alt="Python, C#, Java, TypeScript, JavaScript, Swift" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,ts,js,swift,html,css" alt="Python, C#, Java, TypeScript, JavaScript, Swift, HTML, CSS" />
 
 **ML frameworks**<br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" />
@@ -59,6 +59,18 @@ Based in Salt Lake City, UT · English (professional), Ukrainian and Russian (na
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite" />
 
 **Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,vitest" alt="Git, GitHub, Maven, Vitest" />
 
-Also: SQL · Hugging Face · ONNX Runtime · ASP.NET Core · Pandas · NumPy · SQLAlchemy
+## Skills
+
+- **Languages:** Python · C# · Java · TypeScript · SQL · Swift · JavaScript · HTML/CSS
+- **ML and AI:** Deep learning · Computer vision · LLMs · LLM integration · NLP · RAG · Generative AI · AI agents · Multi-agent systems · Multimodal models · Transformers · Fine-tuning · Model evaluation · Model deployment · Diffusion models · 3D reconstruction · Image processing · Signal processing · Optimization · Time series analysis · Predictive modeling · Statistical modeling · Responsible AI
+- **ML frameworks and models:** PyTorch · TensorFlow · Hugging Face · scikit-learn · ONNX Runtime · OpenCV · MONAI · timm · MNE-Python · Stable Diffusion (SDXL) · ControlNet · SigLIP 2 · Grounding DINO · MoGe-2 · EEG-DINO · Gemini API · Claude
+- **Data science:** Data preparation · Data wrangling · EDA · Statistical analysis · Data visualization · Data modeling · Pandas · NumPy · Matplotlib · Plotly
+- **Backend and web:** .NET · ASP.NET Core · Spring Boot · FastAPI · Flask · REST APIs · React · Angular · Angular Material · Next.js · RxJS · WebSockets
+- **Software engineering:** Software design · Object-oriented programming · Algorithms · Full-stack development · Unit testing
+- **Databases and BI:** PostgreSQL · MySQL · SQLite · SQLAlchemy · Power BI · Excel
+- **Apps and tools:** SwiftUI · WidgetKit · Keychain Services · Git · GitHub · Maven · Vitest · Homebrew · XcodeGen · Adobe InDesign (IDML) · PDF · Pantone/CMYK color
+- **Finance:** FinTech · Financial analysis · Financial markets · Economics · Bloomberg Terminal
+- **Communication:** English (professional) · Ukrainian (native) · Russian (native) · French (elementary) · Intercultural collaboration
+- **Startups:** Entrepreneurship · Product development · Software development
