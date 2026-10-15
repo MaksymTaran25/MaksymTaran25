@@ -15,7 +15,7 @@
 
 I work end to end on a print-automation product at Interform, deploying computer vision and 3D reconstruction models into a .NET pipeline, and I build the ML side of a self-hosted LLM workspace at UtahAILab. Alongside that I do research in three University of Utah labs.
 
-Based in Salt Lake City, UT · English (professional), Ukrainian and Russian (native)
+Based in Salt Lake City, UT · English (professional), Ukrainian and Russian (native), French (elementary)
 
 ## Experience
 
@@ -40,7 +40,7 @@ Based in Salt Lake City, UT · English (professional), Ukrainian and Russian (na
 - **Top Ten, Early Talent Competition** · Wells Fargo × The Global Career Accelerator · Feb 2026
 - **Aerospace Scholars Program** · Selected participant, Price College of Engineering · Dec 2025
 
-## Projects
+## Public Projects
 
 - **[Token Usage Monitor](https://github.com/MaksymTaran25/TokenUsageMonitor)** · macOS menu bar app that tracks Claude AI token usage and rate limits in real time, with multi-size widgets and per-model breakdowns · Swift, SwiftUI, WidgetKit
 
